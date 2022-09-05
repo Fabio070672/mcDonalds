@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orderkitchen.API", "WebApplication1\Orderkitchen.API.csproj", "{FDE4C65A-5449-48DF-8FF8-B9F1CC119A54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Service", "1 - Service", "{3F761EDD-DE34-474F-BA53-B404ACE4F5BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{BCC77C83-5B45-4BD0-93D2-5C21D0871522}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Repository", "3 - Repository", "{BAD1581E-1E0E-4231-8AED-2B27F5F183FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Application", "4 - Application", "{33868295-67CC-4EFB-BD53-B45647412749}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderKitchen.Domain", "OrderKitchen.Domain\OrderKitchen.Domain.csproj", "{908B7D75-BF1F-46F0-9DC1-7168E9A1BCBB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orderkitchen.Services", "Orderkitchen.Services\Orderkitchen.Services.csproj", "{D45E5A15-A3D2-4DFE-9D8F-4DA1C5FC224F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderKitchen.Repository", "OrderKitchen.Repository\OrderKitchen.Repository.csproj", "{96E81DC5-31E6-4A55-A999-9996E008B0D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Entity", "5 - Entity", "{61875C51-6B2E-4819-9F3B-1EBFE4BEF74C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE4C65A-5449-48DF-8FF8-B9F1CC119A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE4C65A-5449-48DF-8FF8-B9F1CC119A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE4C65A-5449-48DF-8FF8-B9F1CC119A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE4C65A-5449-48DF-8FF8-B9F1CC119A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{908B7D75-BF1F-46F0-9DC1-7168E9A1BCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908B7D75-BF1F-46F0-9DC1-7168E9A1BCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908B7D75-BF1F-46F0-9DC1-7168E9A1BCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908B7D75-BF1F-46F0-9DC1-7168E9A1BCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45E5A15-A3D2-4DFE-9D8F-4DA1C5FC224F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45E5A15-A3D2-4DFE-9D8F-4DA1C5FC224F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45E5A15-A3D2-4DFE-9D8F-4DA1C5FC224F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45E5A15-A3D2-4DFE-9D8F-4DA1C5FC224F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E81DC5-31E6-4A55-A999-9996E008B0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E81DC5-31E6-4A55-A999-9996E008B0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E81DC5-31E6-4A55-A999-9996E008B0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E81DC5-31E6-4A55-A999-9996E008B0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FDE4C65A-5449-48DF-8FF8-B9F1CC119A54} = {33868295-67CC-4EFB-BD53-B45647412749}
+		{908B7D75-BF1F-46F0-9DC1-7168E9A1BCBB} = {BCC77C83-5B45-4BD0-93D2-5C21D0871522}
+		{D45E5A15-A3D2-4DFE-9D8F-4DA1C5FC224F} = {3F761EDD-DE34-474F-BA53-B404ACE4F5BD}
+		{96E81DC5-31E6-4A55-A999-9996E008B0D5} = {BAD1581E-1E0E-4231-8AED-2B27F5F183FA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10854728-6151-4113-9747-88028AB85ABC}
+	EndGlobalSection
+EndGlobal

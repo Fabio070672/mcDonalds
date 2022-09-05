@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrderKitchen.Domain\OrderKitchen.Domain.csproj" />
+    <ProjectReference Include="..\OrderKitchen.Repository\OrderKitchen.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

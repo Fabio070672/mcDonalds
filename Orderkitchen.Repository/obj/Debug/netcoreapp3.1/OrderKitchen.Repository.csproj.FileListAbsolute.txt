@@ -1,0 +1,12 @@
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\obj\Debug\netcoreapp3.1\OrderKitchen.Repository.AssemblyInfoInputs.cache
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\obj\Debug\netcoreapp3.1\OrderKitchen.Repository.AssemblyInfo.cs
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\bin\Debug\netcoreapp3.1\OrderKitchen.Repository.deps.json
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\bin\Debug\netcoreapp3.1\OrderKitchen.Repository.dll
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\bin\Debug\netcoreapp3.1\OrderKitchen.Repository.pdb
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\obj\Debug\netcoreapp3.1\OrderKitchen.Repository.dll
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\obj\Debug\netcoreapp3.1\OrderKitchen.Repository.pdb
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\obj\Debug\netcoreapp3.1\OrderKitchen.Repository.csprojAssemblyReference.cache
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\bin\Debug\netcoreapp3.1\OrderKitchen.Domain.dll
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\bin\Debug\netcoreapp3.1\OrderKitchen.Domain.pdb
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\obj\Debug\netcoreapp3.1\OrderKitchen.Repository.csproj.CopyComplete
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\OrderKitchen.Repository\obj\Debug\netcoreapp3.1\OrderKitchen.Repository.csproj.CoreCompileInputs.cache

@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\Orderkitchen.Services\\Orderkitchen.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Domain\\OrderKitchen.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Domain\\OrderKitchen.Domain.csproj",
+        "projectName": "OrderKitchen.Domain",
+        "projectPath": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Domain\\OrderKitchen.Domain.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/scbcx4djpoKVgGL1chHPhn6TQcCfrHwjzDdTgzfZYQjji8TLzT/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Repository\\OrderKitchen.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Repository\\OrderKitchen.Repository.csproj",
+        "projectName": "OrderKitchen.Repository",
+        "projectPath": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Repository\\OrderKitchen.Repository.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/scbcx4djpoKVgGL1chHPhn6TQcCfrHwjzDdTgzfZYQjji8TLzT/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Domain\\OrderKitchen.Domain.csproj": {
+                "projectPath": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Domain\\OrderKitchen.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\Orderkitchen.Services\\Orderkitchen.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\Orderkitchen.Services\\Orderkitchen.Services.csproj",
+        "projectName": "Orderkitchen.Services",
+        "projectPath": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\Orderkitchen.Services\\Orderkitchen.Services.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\Orderkitchen.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/scbcx4djpoKVgGL1chHPhn6TQcCfrHwjzDdTgzfZYQjji8TLzT/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Domain\\OrderKitchen.Domain.csproj": {
+                "projectPath": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Domain\\OrderKitchen.Domain.csproj"
+              },
+              "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Repository\\OrderKitchen.Repository.csproj": {
+                "projectPath": "C:\\PROJETOS\\Prova MCDonalds\\Orderkitchen\\OrderKitchen.Repository\\OrderKitchen.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

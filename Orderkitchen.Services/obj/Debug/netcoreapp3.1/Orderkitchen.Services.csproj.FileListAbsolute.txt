@@ -1,0 +1,14 @@
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\obj\Debug\netcoreapp3.1\Orderkitchen.Services.csprojAssemblyReference.cache
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\obj\Debug\netcoreapp3.1\Orderkitchen.Services.AssemblyInfoInputs.cache
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\obj\Debug\netcoreapp3.1\Orderkitchen.Services.AssemblyInfo.cs
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\obj\Debug\netcoreapp3.1\Orderkitchen.Services.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\bin\Debug\netcoreapp3.1\Orderkitchen.Services.deps.json
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\bin\Debug\netcoreapp3.1\Orderkitchen.Services.dll
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\bin\Debug\netcoreapp3.1\Orderkitchen.Services.pdb
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\bin\Debug\netcoreapp3.1\OrderKitchen.Domain.dll
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\bin\Debug\netcoreapp3.1\OrderKitchen.Domain.pdb
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\obj\Debug\netcoreapp3.1\Orderkitchen.Services.csproj.CopyComplete
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\obj\Debug\netcoreapp3.1\Orderkitchen.Services.dll
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\obj\Debug\netcoreapp3.1\Orderkitchen.Services.pdb
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\bin\Debug\netcoreapp3.1\OrderKitchen.Repository.dll
+C:\PROJETOS\Prova MCDonalds\Orderkitchen\Orderkitchen.Services\bin\Debug\netcoreapp3.1\OrderKitchen.Repository.pdb

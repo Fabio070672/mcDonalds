@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrderKitchen.Domain\OrderKitchen.Domain.csproj" />
+    <ProjectReference Include="..\OrderKitchen.Repository\OrderKitchen.Repository.csproj" />
+    <ProjectReference Include="..\Orderkitchen.Services\Orderkitchen.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>
